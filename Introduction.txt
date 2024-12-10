@@ -1,1 +1,3 @@
 This is an introduction to Git.
+
+This change is made from branch B1.
